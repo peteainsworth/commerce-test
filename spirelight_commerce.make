@@ -147,9 +147,6 @@ projects[imce_wysiwyg][version] = "1.0"
 projects[inline_entity_form][subdir] = "contrib"
 projects[inline_entity_form][version] = "1.0-rc1"
 
-projects[libraries][subdir] = "contrib"
-projects[libraries][version] = "1.0"
-
 projects[link][subdir] = "contrib"
 projects[link][version] = "1.0"
 
@@ -262,8 +259,3 @@ libraries[jquery.cycle][download][type] = "git"
 libraries[jquery.cycle][download][url] = "https://github.com/malsup/cycle.git"
 libraries[jquery.cycle][directory_name] = "jquery.cycle"
 libraries[jquery.cycle][type] = "library"
-
-libraries[profiler][download][type] = "get"
-libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-7.x-2.0-beta1.tar.gz"
-libraries[profiler][directory_name] = "profiler"
-libraries[profiler][type] = "library"
