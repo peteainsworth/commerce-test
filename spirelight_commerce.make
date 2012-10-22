@@ -25,7 +25,7 @@ projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.9"
 
 projects[commerce][subdir] = contrib
-projects[commerce][version] = "1.x-dev"
+projects[commerce][version] = "1.4"
 
 projects[commerce_addressbook][subdir] = "contrib"
 projects[commerce_addressbook][version] = "2.0-rc2"
@@ -148,7 +148,7 @@ projects[inline_entity_form][subdir] = "contrib"
 projects[inline_entity_form][version] = "1.0-rc1"
 
 projects[libraries][subdir] = "contrib"
-projects[libraries][version] = "1.0"
+projects[libraries][version] = "2.0"
 
 projects[link][subdir] = "contrib"
 projects[link][version] = "1.0"
